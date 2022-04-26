@@ -14,4 +14,6 @@ $ python trader.py --training data/training.csv --testing data/testing.csv --out
 ```
 
 ## Idea
-todo
+Buy on the lowest point. Sell on the highest point. 
+Use yesterday and the day before yesterday to see if we are on the 
+lowest/highest point.
